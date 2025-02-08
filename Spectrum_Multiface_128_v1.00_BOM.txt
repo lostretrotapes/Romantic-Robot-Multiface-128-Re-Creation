@@ -1,0 +1,16 @@
+Romantic Robot Multiface 128 Recreation BOM				
+				
+R1,R2	1K			
+C1-12	100nf Ceramic			
+S1	Tact Switch			
+IC1	74S260N			
+IC2	74LS30			
+IC3	74LS27			
+IC4/7	74LS74			
+IC5/10	74LS00			
+IC8	74LS125			
+U1	27C64 EPROM			
+U2	6264 SRAM			
+P1	Spectrum Edge Connector 28x2 (Key on pos. 5)			
+
+D1	1N4001 (Optional if through connecter fitted)
